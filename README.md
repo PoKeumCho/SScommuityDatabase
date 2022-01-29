@@ -1,5 +1,7 @@
 # SScommuityDatabase
 
+
+Used MariaDB
 - - -
 **References (참고자료)**    
 * 우재남 - 이것이 MySQL이다
